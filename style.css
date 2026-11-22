@@ -9,3 +9,4 @@ object { height: 90vh; }
 .container { display: flex; gap: .5rem; }
 .container video { flex: 1; min-width: 0; }
 .pdf-container {border: white;}
+img { max-width: 100%; }
