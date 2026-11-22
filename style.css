@@ -6,7 +6,8 @@ nav { position: sticky; top: 0; height: 100vh; box-sizing: border-box; display: 
 main { flex: 1; padding: 1.5rem 2rem 3rem; gap: 3rem;}
 video, object { width: 100%; }
 object { height: 90vh; border: 1px solid white; margin-top: 2rem; }
-.container { display: flex; }
+.container { display: flex; gap: 8px;}
 .container video { flex: 1; min-width: 0; }
 img { max-width: 100%; border: 1px solid white; }
 footer { position: fixed; bottom: 0; left: 0; right: 0; padding: .5rem; text-align: center; font-size: .8rem; background: Canvas; border-top: 1px solid #333; }
+body { line-height: 1.6; }
